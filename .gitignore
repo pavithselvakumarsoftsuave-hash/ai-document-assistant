@@ -1,0 +1,9 @@
+.venv/
+.model-cache/
+.localtmp/
+__pycache__/
+*.py[cod]
+.env
+data/*
+!data/.gitkeep
+.pytest_cache/
